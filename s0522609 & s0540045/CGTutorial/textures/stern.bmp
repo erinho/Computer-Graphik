@@ -1,0 +1,10 @@
+# Identifier=./Models/0046_Gold
+# Label=Default Model
+# Name=0046_Gold
+# Type=Model
+newmtl 0046_Gold
+Kd 1.0 0.843137254901961 0.0
+Ns 128
+Ni 2
+
+

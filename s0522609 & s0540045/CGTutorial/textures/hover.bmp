@@ -1,0 +1,210 @@
+# Identifier=./Models/Color_004
+# Label=Default Model
+# Name=Color_004
+# Type=Model
+newmtl Color_004
+Kd 0.556862745098039 0.556862745098039 0.556862745098039
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_002
+# Label=Default Model
+# Name=Color_002
+# Type=Model
+newmtl Color_002
+Kd 0.776470588235294 0.776470588235294 0.776470588235294
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_001
+# Label=Default Model
+# Name=Color_001
+# Type=Model
+newmtl Color_001
+Kd 0.886274509803922 0.886274509803922 0.886274509803922
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_008
+# Label=Default Model
+# Name=Color_008
+# Type=Model
+newmtl Color_008
+Kd 0.117647058823529 0.117647058823529 0.117647058823529
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_A10
+# Label=Default Model
+# Name=Color_A10
+# Type=Model
+newmtl Color_A10
+Kd 0.0 0.0 0.0
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_J25
+# Label=Default Model
+# Name=Color_J25
+# Type=Model
+newmtl Color_J25
+Kd 0.176470588235294 0.156862745098039 0.2
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_005
+# Label=Default Model
+# Name=Color_005
+# Type=Model
+newmtl Color_005
+Kd 0.447058823529412 0.447058823529412 0.447058823529412
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Metal_Aluminum_Anodized
+# Label=Default Model
+# Name=Metal_Aluminum_Anodized
+# Type=Model
+newmtl Metal_Aluminum_Anodized
+map_Kd TX_hover\Metal_Aluminum_Anodized.ppm
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_007
+# Label=Default Model
+# Name=Color_007
+# Type=Model
+newmtl Color_007
+Kd 0.227450980392157 0.227450980392157 0.227450980392157
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_003
+# Label=Default Model
+# Name=Color_003
+# Type=Model
+newmtl Color_003
+Kd 0.666666666666667 0.666666666666667 0.666666666666667
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_C01
+# Label=Default Model
+# Name=Color_C01
+# Type=Model
+newmtl Color_C01
+Kd 1.0 0.498039215686275 0.0
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_B17
+# Label=Default Model
+# Name=Color_B17
+# Type=Model
+newmtl Color_B17
+Kd 0.4 0.270588235294118 0.0784313725490196
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Blinds_Roman_Hobbled_Blue
+# Label=Default Model
+# Name=Blinds_Roman_Hobbled_Blue
+# Type=Model
+newmtl Blinds_Roman_Hobbled_Blue
+map_Kd TX_hover\Blinds_Roman_Hobbled_Blue.ppm
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_0061
+# Label=Default Model
+# Name=Color_0061
+# Type=Model
+newmtl Color_0061
+Kd 0.337254901960784 0.337254901960784 0.337254901960784
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_006
+# Label=Default Model
+# Name=Color_006
+# Type=Model
+newmtl Color_006
+Kd 0.537254901960784 0.537254901960784 0.537254901960784
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/0038_Orange
+# Label=Default Model
+# Name=0038_Orange
+# Type=Model
+newmtl 0038_Orange
+Kd 1.0 0.647058823529412 0.0
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_A01
+# Label=Default Model
+# Name=Color_A01
+# Type=Model
+newmtl Color_A01
+Kd 1.0 0.0 0.0
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_B20
+# Label=Default Model
+# Name=Color_B20
+# Type=Model
+newmtl Color_B20
+Kd 0.4 0.337254901960784 0.317647058823529
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_000
+# Label=Default Model
+# Name=Color_000
+# Type=Model
+newmtl Color_000
+Kd 1.0 1.0 1.0
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_A13
+# Label=Default Model
+# Name=Color_A13
+# Type=Model
+newmtl Color_A13
+Kd 0.6 0.23921568627451 0.23921568627451
+Ns 128
+Ni 2
+
+
+# Identifier=./Models/Color_009
+# Label=Default Model
+# Name=Color_009
+# Type=Model
+newmtl Color_009
+Kd 0.0 0.0 0.0
+Ns 128
+Ni 2
+
+
